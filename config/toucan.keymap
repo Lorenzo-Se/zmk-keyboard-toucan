@@ -44,7 +44,7 @@
 #define CH_RBRC  RA(RBKT)          /* ]  */
 #define CH_LCBR  RA(SQT)           /* {  */
 #define CH_RCBR  RA(BSLH)          /* }  */
-#define CH_BSLS  RA(NON_US_BSLASH) /* \  */
+#define CH_BSLS  RA(NON_US_BSLH)   /* \  */
 #define CH_TILD  RA(EQUAL)         /* ~  (je nach OS Tottaste: danach Space) */
 
 /* Undo/Redo: Ctrl + Buchstabe z bzw. y (Scancodes vertauscht) */
